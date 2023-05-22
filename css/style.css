@@ -1,0 +1,465 @@
+.c{
+    width:200px;
+    height:200px;
+    line-height: 200px;
+    border:5px solid black;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px  0px 0px 10px;
+}
+.c:hover{
+    cursor: pointer;
+    border-radius: 50%;
+    color:#fff;
+}
+.box-1:hover{
+    background-color: aliceblue;
+    color:red;
+}
+.box-2:hover{
+    background-color: antiquewhite;
+}
+.box-3:hover{
+    background-color: aqua;
+}
+.box-4:hover{
+    background-color: aquamarine;
+}
+.box-5:hover{
+    background-color: azure;
+    color:red;
+}
+.box-6:hover{
+    background-color: beige;
+    color:red;
+}
+.box-7:hover{
+    background-color: bisque;
+}
+.box-8:hover{
+    background-color:black ;
+}
+.box-9:hover{
+    background-color:blanchedalmond ;
+}
+.box-10:hover{
+    background-color:blue ;
+}
+.box-11:hover{
+    background-color:blueviolet ;
+}
+.box-12:hover{
+    background-color:brown ;
+}
+.box-13:hover{
+    background-color: burlywood;
+}
+.box-14:hover{
+    background-color:cadetblue ;
+}
+.box-15:hover{
+    background-color: chartreuse;
+}
+.box-16:hover{
+    background-color: chocolate;
+}
+.box-17:hover{
+    background-color:coral ;
+}
+.box-18:hover{
+    background-color: cornflowerblue;
+}
+.box-19:hover{
+    background-color:cornsilk ;
+}
+.box-20:hover{
+    background-color: crimson;
+}
+.box-21:hover{
+    background-color: cyan;
+}
+.box-22:hover{
+    background-color: darkblue;
+}
+.box-23:hover{
+    background-color:darkcyan ;
+}
+.box-24:hover{
+    background-color: darkgoldenrod;
+}
+.box-25:hover{
+    background-color: darkgray;
+}
+.box-26:hover{
+    background-color:darkgray ;
+}
+.box-27:hover{
+    background-color:darkgreen ;
+}
+.box-28:hover{
+    background-color: darkkhaki;
+}
+.box-29:hover{
+    background-color: darkmagenta ;
+}
+.box-30:hover{
+    background-color: darkolivegreen;
+}
+.box-31:hover{
+    background-color: darkorange;
+}
+.box-32:hover{
+    background-color:darkorchid ;
+}
+.box-33:hover{
+    background-color: darkred;
+}
+.box-34:hover{
+    background-color:darksalmon ;
+}
+.box-35:hover{
+    background-color:darkseagreen ;
+}
+.box-36:hover{
+    background-color: darkslateblue;
+}
+.box-37:hover{
+    background-color:darkslategray ;
+}
+.box-38:hover{
+    background-color:darkslategray ;
+}
+.box-39:hover{
+    background-color:darkturquoise ;
+}
+.box-40:hover{
+    background-color: darkviolet;
+}
+.box-41:hover{
+    background-color:deeppink ;
+}
+.box-42:hover{
+    background-color: deepskyblue;
+}
+.box-43:hover{
+    background-color:dimgray ;
+}
+.box-44:hover{
+    background-color:dimgray ;
+}
+.box-45:hover{
+    background-color: dodgerblue;
+}
+.box-46:hover{
+    background-color: firebrick;
+}
+.box-47:hover{
+    background-color: floralwhite;
+}
+.box-48:hover{
+    background-color: forestgreen;
+}
+.box-49:hover{
+    background-color: fuchsia;
+}
+.box-50:hover{
+    background-color: gainsboro;
+}
+.box-51:hover{
+    background-color:ghostwhite ;
+}
+.box-52:hover{
+    background-color:gold ;
+}
+.box-53:hover{
+    background-color:goldenrod ;
+}
+.box-54:hover{
+    background-color:gray ;
+}
+.box-55:hover{
+    background-color:gray ;
+}
+.box-56:hover{
+    background-color:green ;
+}
+.box-57:hover{
+    background-color: greenyellow ;
+}
+.box-58:hover{
+    background-color:honeydew ;
+}
+.box-59:hover{
+    background-color:hotpink ;
+}
+.box-60:hover{
+    background-color: indianred;
+}
+.box-61:hover{
+    background-color:indigo;
+}
+.box-62:hover{
+    background-color: ivory;
+}
+.box-63:hover{
+    background-color:khaki ;
+}
+.box-64:hover{
+    background-color:lavender ;
+}
+.box-65:hover{
+    background-color:lavenderblush ;
+}
+.box-66:hover{
+    background-color:lawngreen ;
+}
+.box-67:hover{
+    background-color:lemonchiffon ;
+}
+.box-68:hover{
+    background-color: lightblue ;
+}
+.box-69:hover{
+    background-color:lightcoral ;
+}
+.box-70:hover{
+    background-color: lightcyan;
+}
+.box-71:hover{
+    background-color: lightgoldenrodyellow;
+}
+.box-72:hover{
+    background-color:lightgray ;
+}
+.box-73:hover{
+    background-color:lightgray ;
+}
+.box-74:hover{
+    background-color:lightgreen ;
+}
+.box-75:hover{
+    background-color: lightpink;
+}
+.box-76:hover{
+    background-color:lightsalmon;
+}
+.box-77:hover{
+    background-color:lightseagreen ;
+}
+.box-78:hover{
+    background-color:lightskyblue ;
+}
+.box-79:hover{
+    background-color:lightslategray ;
+}
+.box-80:hover{
+    background-color: lightslategray;
+}
+.box-81:hover{
+    background-color:lightsteelblue ;
+}
+.box-82:hover{
+    background-color:lightyellow;
+}
+.box-83:hover{
+    background-color:lime ;
+}
+.box-84:hover{
+    background-color: limegreen;
+}
+.box-85:hover{
+    background-color: linen;
+}
+.box-86:hover{
+    background-color: magenta;
+}
+.box-87:hover{
+    background-color: maroon;
+}
+.box-88:hover{
+    background-color: mediumaquamarine;
+}
+.box-89:hover{
+    background-color:mediumblue ;
+}
+.box-90:hover{
+    background-color:mediumorchid ;
+}
+.box-91:hover{
+    background-color: mediumpurple;
+}
+.box-92:hover{
+    background-color: mediumseagreen;
+}
+.box-93:hover{
+    background-color:mediumslateblue ;
+}
+.box-94:hover{
+    background-color: mediumseagreen;
+}
+.box-95:hover{
+    background-color:mediumturquoise ;
+}
+.box-96:hover{
+    background-color: mediumvioletred;
+}
+.box-97:hover{
+    background-color: midnightblue;
+}
+.box-98:hover{
+    background-color:mintcream ;
+}
+.box-99:hover{
+    background-color: mistyrose;
+}
+.box-100:hover{
+    background-color: moccasin ;
+}
+.box-101:hover{
+    background-color: navajowhite;
+}
+.box-102:hover{
+    background-color: navy ;
+}
+.box-103:hover{
+    background-color:oldlace ;
+}
+.box-104:hover{
+    background-color:olive ;
+}
+.box-105:hover{
+    background-color: olivedrab ;
+}
+.box-106:hover{
+    background-color: orange;
+}
+.box-107:hover{
+    background-color:orangered ;
+}
+.box-108:hover{
+    background-color: orchid;
+}
+.box-109:hover{
+    background-color:palegoldenrod ;
+}
+.box-110:hover{
+    background-color: palegreen;
+}
+.box-111:hover{
+    background-color: paleturquoise;
+}
+.box-112:hover{
+    background-color:palevioletred ;
+}
+.box-113:hover{
+    background-color:papayawhip ;
+}
+.box-114:hover{
+    background-color:peachpuff ;
+}
+.box-115:hover{
+    background-color: peru ;
+}
+.box-116:hover{
+    background-color: pink;
+}
+.box-117:hover{
+    background-color: plum;
+}
+.box-118:hover{
+    background-color:powderblue ;
+}
+.box-119:hover{
+    background-color: purple;
+}
+.box-120:hover{
+    background-color:rebeccapurple ;
+}
+.box-121:hover{
+    background-color: red;
+}
+.box-122:hover{
+    background-color:rosybrown ;
+}
+.box-123:hover{
+    background-color: royalblue;
+}
+.box-124:hover{
+    background-color:saddlebrown ;
+}
+.box-125:hover{
+    background-color: salmon;
+}
+.box-126:hover{
+    background-color:sandybrown ;
+}
+.box-127:hover{
+    background-color:seagreen ;
+}
+.box-128:hover{
+    background-color:seashell ;
+}
+.box-129:hover{
+    background-color:sienna ;
+}
+.box-130:hover{
+    background-color: silver;
+}
+.box-131:hover{
+    background-color: skyblue;
+}
+.box-132:hover{
+    background-color:slateblue ;
+}
+.box-133:hover{
+    background-color:slategray ;
+}
+.box-134:hover{
+    background-color: slategray;
+}
+.box-135:hover{
+    background-color:snow ;
+    color:#000
+}
+.box-136:hover{
+    background-color:springgreen ;
+}
+.box-137:hover{
+    background-color:steelblue ;
+}
+.box-138:hover{
+    background-color: tan;
+}
+.box-139:hover{
+    background-color: teal;
+}
+.box-140:hover{
+    background-color:thistle ;
+}
+.box-141:hover{
+    background-color:tomato ;
+}
+.box-142:hover{
+    background-color:turquoise ;
+}
+.box-143:hover{
+    background-color:violet ;
+}
+.box-144:hover{
+    background-color: wheat;
+}
+.box-145:hover{
+    background-color:white ;
+    color:#000;
+}
+.box-146:hover{
+    background-color: whitesmoke;
+}
+.box-147:hover{
+    background-color:yellow ;
+}
+.box-148:hover{
+    background-color: yellowgreen;
+}
